@@ -1,4 +1,4 @@
-# FxPortal Project
+# Building-with-Polygon-Bridge
 
 This is the first project on Polygon-Advance,  I deployed NFTs on the Ethereum sepolia network. Then, I approved and finally deposited from Ethereum to Polygon using  the Polygon Bridge.
 
@@ -39,9 +39,6 @@ Run the following commands to approve and deposit the minted NFTs from Ethereum 
 ```shell
 npx hardhat run scripts/approveDeposit.js --network sepolia
 ```
-
-## Authors
-
 
 ## License
 
