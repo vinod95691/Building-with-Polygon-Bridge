@@ -32,9 +32,9 @@ npx hardhat run scripts/mint.js --network sepolia
 
 The script will mint the specified number of NFTs and assign them to your address.
 
-### Approve and Deposit NFTs to Polygon Mumbai
+### Approve and Deposit NFTs to Polygon amoy
 
-Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai network using the FxPortal Bridge:
+Run the following commands to approve and deposit the minted NFTs from Ethereum to the Polygon amoy network using the FxPortal Bridge:
 
 ```shell
 npx hardhat run scripts/approveDeposit.js --network sepolia
